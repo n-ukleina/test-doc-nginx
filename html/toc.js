@@ -1,0 +1,1 @@
+window.__DATA__.data.toc = {"title":"Тестовое задание","href":"index.html","items":[{"name":"Установка NGINX на виртуальную машину Ubuntu","labeled":true,"href":"pages/index.html","id":"862b20eb-5079-4ed6-af86-3439e8169881"}],"id":"1124de02-ae41-4b91-86a7-081e253f4ea6"};
